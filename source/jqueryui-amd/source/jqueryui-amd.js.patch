@@ -1,0 +1,11 @@
+--- jqueryui-amd.js
++++ jqueryui-amd.js
+@@ -66,7 +66,7 @@
+     //If fileParts' last piece is a datepicker i18n bundle, make datepicker
+     //an explicit dependency for it.
+     if (fileParts[fileParts.length - 1].indexOf('datepicker-') === 0) {
+-        files.push("'jqueryui/datepicker'");
++        files.push("'./datepicker'");
+     }
+ 
+     //Make sure directories exist in the jqueryui section.

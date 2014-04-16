@@ -1,0 +1,31 @@
+{
+  "name": "jqueryui-amd",
+  "version": "0.0.2",
+  "homepage": "http://github.com/jrburke/jqueryui-amd",
+  "author": {
+    "name": "James Burke",
+    "email": "jrburke@gmail.com",
+    "url": "http://github.com/jrburke"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://github.com/jrburke/jqueryui-amd/blob/master/LICENSE"
+    },
+    {
+      "type": "MIT",
+      "url": "https://github.com/jrburke/jqueryui-amd/blob/master/LICENSE"
+    }
+  ],
+  "main": "jqueryui-amd",
+  "bin": {
+    "jqueryui-amd": "./jqueryui-amd.js"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "_id": "jqueryui-amd@0.0.2",
+  "readme": "ERROR: No README.md file found!",
+  "description": "ERROR: No README.md file found!",
+  "_from": "jqueryui-amd@"
+}
